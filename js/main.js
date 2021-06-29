@@ -240,7 +240,7 @@
         };
         // Variables
         var $html = $('html'),
-            $elementCarousel = $('.breco-element-carousel');
+            $elementCarousel = $('.brook-element-carousel');
 
 
         if ($elementCarousel.elExists()) {
@@ -332,7 +332,6 @@
         }
 
     })(jQuery);
-
 
 
 
