@@ -2,62 +2,6 @@
 	Version: 1.0
 ======================*/
 
-/**************************************************************
-	
-	MAIN JS INDEXING
-	
-    	01. Wow Active 
-    	02. Counter Up
-    	03. Mainmenu Activation
-    	03. Testimonial Horizontal Activation
-    	04. Creative Portfolio    
-    	05. Flexable Image Ativation        
-    	06. Blog Activation
-        07. Youtub Popup
-    	08. Fixed Footer Area        
-    	09. Slick Activation
-    	10. Headroom For Sticky Header
-    	11. Search Popup
-    	12. Sidebar Mobile Menu  Active
-        13. Option Demo
-    	14. Minicart Activation        
-    	15. Sidebar Mobile Menu
-    	16. Hamberger Menu
-        17. All Animation For Fade Up 
-    	18. Countdown        
-    	19. Countdown Time Circles
-    	20. Radial Progress 02 
-    	21. Draw Svg 
-    	22. LightBox
-    	23. Gallery Mesonry Activation
-    	24. Image Justify Activation
-        25. Portfolio Masonry Activation
-    	26. Blog Masonry Activation        
-    	27. Ajax Filter 
-    	28. Tilt Hover Animation
-    	29. Portfolio Type Hover
-    	30. Portfolio Type Hover 02
-    	31. Portfolio Type Hover 02
-        32. Digital Broadsheets
-    	33. Single Product Sticky Sidebar        
-        34. Price Slider Active
-        35. Preloadder 
-        36. Firefly 
-        37. Fullpage Scroll Animation 
-        38. Scroll Up Activation
-        39. Scroll Up COlor Change
-        40. Background Marque
-        41. Quantity
-        42. Shipping Form Toggle
-    	43. Payment Method Select        
-    	44. Add To Cart Animation
-    	45. Scrollnavigation
-	
-	__ END MAIN JS INDEXING
-
-***************************************************************/
-
-
 (function ($) {
     'use strict';
 
@@ -240,7 +184,7 @@
         };
         // Variables
         var $html = $('html'),
-            $elementCarousel = $('.brook-element-carousel');
+            $elementCarousel = $('.breco-element-carousel');
 
 
         if ($elementCarousel.elExists()) {
@@ -332,6 +276,7 @@
         }
 
     })(jQuery);
+
 
 
 
